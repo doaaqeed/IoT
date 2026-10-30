@@ -14,11 +14,11 @@ This project demonstrates how to read live temperature and humidity data using a
 
 ## Screenshots
 
-### 1. Wokwi Simulation & Wiring Diagram
-![Wokwi Simulation](Screenshots/Wiring_Diagrem.png)
+### 1. Wiring Diagram
+![Wiring Diagram](Screenshots/Wiring%20Diagram.png)
 
-### 2. Serial Monitor Output
-(Screenshots/Serial_Monitor.png)
+### 2. Serial Monitor 
+![Serial Monitor](Screenshots/Serial%20Monitor.png)
 
-### 3. ThingSpeak Live Charts
-(Screenshots/ThingSpeak_Charts.png)
+### 3. ThingSpeak  Charts
+![ThingSpeak Charts](Screenshots/ThingSpeak%20Charts.png)
