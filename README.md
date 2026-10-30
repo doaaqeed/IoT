@@ -15,7 +15,7 @@ This project demonstrates how to read live temperature and humidity data using a
 ## Screenshots
 
 ### 1. Wokwi Simulation & Wiring Diagram
-(Screenshots/Wiring_Diagrem.png)
+![Wokwi Simulation](Screenshots/Wiring_Diagrem.png)
 
 ### 2. Serial Monitor Output
 (Screenshots/Serial_Monitor.png)
