@@ -22,7 +22,7 @@ void setup() {
   }
 
   ThingSpeak.begin(clientObject);
-  Serial.println("Studebt ID : 12324197");
+  Serial.println("Student ID : 12324197");
   Serial.println("Status: Connected");
 }
 
